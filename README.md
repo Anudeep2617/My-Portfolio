@@ -6,7 +6,7 @@ Writing down the learnings from my experience in the Technical Writer role.
 
 Welcome to my technical writing portfolio!
 
-I am a Technical Writer with **9+ years of experience** creating and maintaining technical documentation for enterprise software products, including cybersecurity solutions. My experience includes translating complex technical concepts and workflows into clear, structured, and user-friendly documentation for developers, administrators, and end users.
+I am a Technical Writer with **5+ years of experience** creating and maintaining technical documentation for enterprise software products, including cybersecurity solutions. My experience includes translating complex technical concepts and workflows into clear, structured, and user-friendly documentation for developers, administrators, and end users.
 
 I specialize in product documentation, API references, installation and configuration guides, release notes, user guides, and knowledge base articles. I collaborate with engineering, product, QA, and subject matter experts to ensure documentation is accurate, consistent, and aligned with product functionality.
 
